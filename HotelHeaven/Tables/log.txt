@@ -1,0 +1,14 @@
+Failed to generate report for table [Employee]
+Enumerate foreign keys failed for Table 'dbo.Employee'. 
+Failed to generate report for table [Guest]
+ExecuteNonQuery requires an open and available Connection. The connection's current state is open.
+Failed to generate report for table [Hotel]
+ExecuteNonQuery requires an open and available Connection. The connection's current state is open.
+Failed to generate report for table [HotelRoom]
+ExecuteNonQuery requires an open and available Connection. The connection's current state is open.
+Failed to generate report for table [Region]
+ExecuteNonQuery requires an open and available Connection. The connection's current state is open.
+Failed to generate report for table [Reservation]
+ExecuteNonQuery requires an open and available Connection. The connection's current state is open.
+Failed to generate report for table [RoomType]
+ExecuteNonQuery requires an open and available Connection. The connection's current state is open.
